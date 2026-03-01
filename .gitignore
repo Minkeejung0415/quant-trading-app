@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+data/raw_csv/
+data/qlib_kr_data/
+models/*.pkl
+config/broker_config.yaml
