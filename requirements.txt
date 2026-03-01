@@ -1,0 +1,16 @@
+qlib
+lightgbm
+xgboost
+catboost
+pykrx
+yfinance
+schedule
+loguru
+pandas
+numpy
+scipy
+scikit-learn
+PyYAML
+ib_insync
+python-kis
+requests

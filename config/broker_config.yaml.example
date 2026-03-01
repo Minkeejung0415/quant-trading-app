@@ -1,0 +1,13 @@
+broker: ibkr
+use_paper_trading: true
+ibkr:
+  host: 127.0.0.1
+  port_paper: 7497
+  port_live: 7496
+  client_id: 1
+kis:
+  app_key: ""
+  app_secret: ""
+  account_no: ""
+  product_code: "01"
+  paper: true
